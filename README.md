@@ -1,0 +1,5 @@
+## **CHIP8 IN C**
+
+#### DEDICATED TO BISQWIT
+
+###### AND MY DOG
